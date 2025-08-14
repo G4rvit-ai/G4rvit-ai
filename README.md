@@ -1,6 +1,6 @@
 - 👋 Hi, I’m G4rv1t
 - 👀 I’m interested in Artifical Intelligence and Machine learning
-- 🌱 I’m currently learning C++,Java and JavaScript after having basics of Python.
+- 🌱 I’m currently learning Java and JavaScript after having basics of Python and C++.
 - 📫 How to reach me https://www.linkedin.com/in/garvit-pant-469a28325/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Pursuing my Bachelor's in Technology with specialization in AI & ML
