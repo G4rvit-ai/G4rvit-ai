@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garvit</h1>
 <h3 align="center">A passionate Backend and AI/ML engineer..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g4rvit-ai&label=Profile%20views&color=0e75b6&style=flat" alt="g4rvit-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g4rvit-ai" alt="g4rvit-ai" /></a> </p>
-
 - 🔭 I’m currently working on **ProcessX**
 
 - 🌱 I’m currently learning **JavaScript**
