@@ -25,7 +25,9 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 
 | Project | What it does | Tech / focus |
 | --- | --- | --- |
-| [**ProcessX**](https://github.com/G4rvit-ai/ProcessX) | Traces Linux system calls, builds a baseline of normal program behavior, and explains differences in later runs with an interpretable score. | Python · Linux · `strace` · FastAPI |
+| [**ProcessX**](https://github.com/G4rvit-ai/ProcessX) | Traces Linux system calls, builds a baseline of normal program behavior, and explains differences in later runs with an interpretable score. | Python · Linux · `strace` · FastAPI · React |
+| [**ResearchRadar**](https://github.com/G4rvit-ai/ResearchRadar) | Reproducible research-paper discovery app with TF-IDF search, similarity recommendations, topic modeling, and keyword extraction. | Python · Streamlit · Hugging Face Datasets · scikit-learn |
+| [**ContextCheck**](https://github.com/G4rvit-ai/ContextCheck) | Natural Language Inference app that compares Transformer and TF-IDF-based models for premise–hypothesis classification. | Python · PyTorch · Transformers · Streamlit · scikit-learn |
 | [**Smart Event Attendance — Backend**](https://github.com/G4rvit-ai/KRMU_Smart-Event-Attendance-Management-System_Backend) | Backend API organized around authentication, events, and registrations. | JavaScript · Node.js · Express |
 | [**Friday Assistant**](https://github.com/G4rvit-ai/Friday_Assistant_Prototype) | Voice assistant prototype that recognizes spoken commands, opens websites, and can launch songs from a small music library. | Python · Speech recognition |
 | [**911 Calls Analysis**](https://github.com/G4rvit-ai/911-calls-project) | Exploratory analysis of 911 call trends, volume, reasons, and intensity. | Python · Data analysis |
