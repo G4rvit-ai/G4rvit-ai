@@ -30,7 +30,6 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 | [**ContextCheck**](https://github.com/G4rvit-ai/ContextCheck) | Natural Language Inference app that compares Transformer and TF-IDF-based models for premise–hypothesis classification. | Python · PyTorch · Transformers · Streamlit · scikit-learn |
 | [**Smart Event Attendance — Backend**](https://github.com/G4rvit-ai/KRMU_Smart-Event-Attendance-Management-System_Backend) | Backend API organized around authentication, events, and registrations. | JavaScript · Node.js · Express |
 | [**Friday Assistant**](https://github.com/G4rvit-ai/Friday_Assistant_Prototype) | Voice assistant prototype that recognizes spoken commands, opens websites, and can launch songs from a small music library. | Python · Speech recognition |
-| [**911 Calls Analysis**](https://github.com/G4rvit-ai/911-calls-project) | Exploratory analysis of 911 call trends, volume, reasons, and intensity. | Python · Data analysis |
 
 ## Tools & technologies
 
@@ -42,7 +41,7 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -57,10 +56,6 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### AI/ML & data
 
@@ -79,6 +74,7 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 ![strace](https://img.shields.io/badge/strace-333333?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
